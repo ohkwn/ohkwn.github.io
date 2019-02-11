@@ -1,8 +1,14 @@
-## 2019 봄학기 강의
+### 2019 봄학기 강의
 
 1. 알고리즘
 2. 문제해결기법
-3. 임베디드 시스템 프로그래밍 II
+3. 임베디드시스템 프로그래밍 II
+
+
+## 지난 강의들
+
+1. 자료구조 (2018 가을)
+2. 임베디드시스템 프로그래밍 I (2018년 가을)
 
 
 You can use the [editor on GitHub](https://github.com/ohheum/ohheum.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
