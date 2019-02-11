@@ -1,4 +1,9 @@
-## 알고리즘 2019 봄학기
+## 2019 봄학기 강의
+
+1. 알고리즘
+2. 문제해결기법
+3. 임베디드 시스템 프로그래밍 II
+
 
 You can use the [editor on GitHub](https://github.com/ohheum/ohheum.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
